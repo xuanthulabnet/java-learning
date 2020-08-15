@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "redhat.java",      //  Language Support for Java(TM) by Red HatPreview
+    "vscjava.vscode-java-debug", //Debugger for JavaPreview
+    "vscjava.vscode-java-test", //Java Test RunnerPreview
+    "vscjava.vscode-maven", //Maven for Java
+    "vscjava.vscode-java-dependency", //Project Manager for JavaPreview
+    "VisualStudioExptTeam.vscodeintellicode", //Visual Studio IntelliCode
+
+    ]
+}
